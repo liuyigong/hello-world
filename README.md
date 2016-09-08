@@ -1,6 +1,6 @@
 # Hello-World
 ##Hello World
 
-#Hi!
+Hi!
 
 Yigong is here! hahahaha
